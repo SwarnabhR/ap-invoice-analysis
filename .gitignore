@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+*.log
+*.pyo
+*.pyd
+
+oxy_env/
+venv/
+.vscode/
+.ipynb_checkpoints/
+
+*.xlsx
+*.csv
+.DS_Store
+Thumbs.db
